@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Muzhou Ma (Richard), an undergrad student at Tsinghua University.
+
+My research interests focus on **Quantum Information Theory**:
+- Quantum Learning Theory.
+- Quantum Error Correction and Fault-tolerant Quantum Computing,
+- Quantum Algorithms.
+- Variational Quantum Ansatzes.
