@@ -18,6 +18,6 @@ I am Muzhou Ma (Richard), an undergraduate student at Tsinghua University.
 
 My research interests focus on **Quantum Information Theory**:
 - Quantum Learning Theory
-- Quantum Error Correction & Fault-tolerant Quantum Computing
 - Quantum Algorithms
+- Quantum Error Correction & Fault-tolerant Quantum Computing
 - Variational Quantum Ansatzes & Quantum Machine Learning
