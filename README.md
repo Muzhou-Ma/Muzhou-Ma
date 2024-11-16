@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am Muzhou Ma (Richard), an undergraduate student at Tsinghua University.
 
 My research interests focus on **Quantum Information Theory**:
-- Quantum Learning Theory
+- Quantum Learning Theory \& Complexity
 - Quantum Algorithms
 - Quantum Error Correction & Fault-tolerant Quantum Computing
 - Variational Quantum Ansatzes & Quantum Machine Learning
